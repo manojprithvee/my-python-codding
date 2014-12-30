@@ -1,0 +1,9 @@
+import os
+
+count=0
+for path, subdirs, files in os.walk('/home/manoj/Videos/movies'):
+	for filename in files:
+		if os.path.splitext(filename)[1]==".avi":
+			os.remove(os.path.join(path, filename));
+			count=count+1
+print "number of deleted files:" ,count

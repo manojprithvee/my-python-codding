@@ -1,0 +1,14 @@
+from requests import session
+
+payload = {
+    'login': 'Login',
+    'username': 'admin',
+    'password': '9842720874',
+    'mobile': '0'
+}
+
+with session() as c:
+    c.post('http://chinnarajutraders.t15.org/login.php', data=payload)
+    request = c.get('http://chinnarajutraders.t15.org/ms.php')
+    print request.headers
+    print request.text

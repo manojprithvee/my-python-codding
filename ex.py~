@@ -1,0 +1,7 @@
+import os
+
+for path, subdirs, files in os.walk('/home/manoj/Videos'):
+   for filename in files:
+     f = os.path.join(path, filename)
+     a = open("output.txt", "w")
+     a.write(str(f)) 

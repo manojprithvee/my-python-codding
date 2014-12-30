@@ -1,0 +1,1109 @@
+Name : Dr.Susan Elias     
+course taken:
+	1. Theory of Computation
+	2. Mobile Computing
+	3. Multimedia Systems
+	4. Systems Modeling &amp; Simulation
+	5. Design and Analysis of Algorithms
+	6. Internet Programming
+	7. Network Security
+	8. Data Structures &amp; Algorithms
+	9. Compiler Design
+	10.Graphics &amp; Multimedia
+	
+------------------------------------------------------------------------------------------------------------
+Name : S.R.Malathi     
+course taken:
+	Electronic Devices and Circuits
+	Electric Circuit Theory
+	Network Analysis and Synthesis
+	Digital Communication
+	Computer Communication
+	Analog, Digital and Data Communication
+	Optical Communication
+	Antenna and Wave Propagation
+	Microwave Engineering
+	Radar Systems
+	Signals and Systems
+	Digital Signal Processing
+	Digital System Design
+	Digital Principles and System Design
+	Microprocessor and Microcontrollers
+	Computer Architecture and Organization
+	Electronic Circuits Lab
+	Digital Lab
+	Microprocessor Lab
+	Communication Systems Lab
+------------------------------------------------------------------------------------------------------------
+Name : Dr. V. Vidhya     
+course taken:
+	
+	Principles of Compiler Design
+	Object Oriented Analysis and Design
+	Software Engineering and Methodologies
+	Compiler Design
+	Advanced Data Structures and Algorithm
+	Advanced System Software
+	Data Mining and Warehousing
+	Design of Algorithm
+	Programming and Data structure
+	Object Oriented Programming
+	Theory of Computation
+	Control Systems
+	Electric Circuits
+	Electronic Circuits
+	Instrumentation systems
+	Micro Processor based System design
+	Digital Electronics
+	Electrical Machines-I
+	
+------------------------------------------------------------------------------------------------------------
+Name : K.S.Gayathri     
+course taken:
+	Data Structures
+	
+	Computer Algorithms
+	
+	Digital Systems
+	
+	Artificial Intelligence
+	
+	Software Engineering
+	
+	Internet Programming
+	
+	Computer Architecture
+	
+	Object Oriented Programming
+	
+	Digital Systems
+	
+	Programming Language - C, Pascal, Fortran
+	
+	Unix Internals
+	
+	System Software
+	
+	Design and Analysis of Algorithms (CS2251 )
+	Data Structures &amp; Algorithms Lab
+	
+	Digital Systems Lab
+	
+	Object Oriented Programming Lab
+	
+	Internet Programming Lab
+	
+	Compiler Lab
+	
+	Operating System Lab
+	
+	Programming Language - C, Pascal, Fortran Lab
+	
+	M.E Networking Lab
+	
+	System Software Lab
+	
+	Internet Programing Lab
+	
+	Computer Programming
+	
+	Web technology Lab
+------------------------------------------------------------------------------------------------------------
+Name : R.Jayabhaduri     
+course taken:
+	
+	
+	
+	CS9259 - Network Security
+	CP052 - E-Commerce Technologies
+	CP141 - Operating System Design
+	CP035 - Distributed Computing
+	CP144 - Internet Programming and Tools
+	CS1654 - Object Oriented System Design
+	CS1657 - Database And Web Technology Lab
+	
+	
+	
+	
+	
+	CS2063 - Grid Computing (Elective - VIII Sem)
+	IT2352 - Cryptography and Network Security (VII Sem)
+	CS2353-Object Oriented Analysis and Design
+	CS2351 - Artificial Intelligence
+	IT1402 - Mobile Computing
+	EC1008 - High Speed Networks
+	CS1402 - Object Oriented Analysis and Design
+	GE1X02 - Computer Programming
+	CS432 - Web Technology
+	CS043 - ATM Networks
+	CS431 - Network Protocols, Management And Security
+	CS057 - TCP/IP Design and Implementation
+	CS240 - Artificial Intelligence
+	CS433 - Object Oriented System Analysis and Design
+	CS801 - Man Machine And Interface
+	CS703 - Distributed Computing
+	
+	
+	GE2155 - Computer Practice Lab - II
+	CS2357 - Object Oriented Analysis and Design Lab
+	GE2115 - Computer Practice Lab - I
+	CS2209 - Object Oriented Programming Lab
+	CS1205 - Object Oriented Programming Lab
+	CS434 - Internet Programming Lab
+	CS1305 - Networks Lab
+	CS1403 - Case Tools Lab
+	
+	
+	CS2063 GRID COMPUTING
+	CS2353 OBJECT ORIENTED ANALYSIS &amp; DESIGN
+	
+------------------------------------------------------------------------------------------------------------
+Name : N M Balamurugan     
+course taken:
+	High Speed Networks
+	
+	Object oriented system analysis and design (for B.E)
+	
+	Professional Ethics (for B.E)
+	
+	Software Testing (for B.E)
+	
+	Embedded Networking ( for M.E)
+	
+	Network Security (for M.E)
+	
+	Advanced Operating System (for M.E)
+	
+	Information Security (for M.E)
+	
+	Ad Hoc Networks (for M.E)
+	
+	OOPs (for B.E)
+	
+	Digital image processing (for B.E)
+	
+	Real Time Systems (for B.E)
+	
+	PC and PC based systems (for B.E)
+	
+	Computer Architecture (for B.E)
+	
+	Computer Graphics (for B.E.)
+	
+	Computer Pratice Laboratory-II
+	
+	Circuits and Device Laboratory
+	Network Lab
+	
+	Graphics &amp; Multimedia Lab
+	
+	Compiler Design Lab
+	
+	OOPS Lab
+	
+	Case Tools Lab
+	
+	Operating System Lab
+	
+	GE2025 PROFESSIONAL ETHICS IN ENGINEERING
+	
+	IF7202 CLOUD COMPUTING
+	
+------------------------------------------------------------------------------------------------------------
+Name : K.S. Subhashini     
+course taken:
+	
+	
+	
+	EC2151-ELECTRIC CIRCUITS AND ELECTRON DEVICES
+	CS9213- COMPUTER NETWORKS AND MANAGEMENT
+	CS2304- DIGITAL  SIGNAL PROCESSING
+	EC250-ELECTRON DEVICES AND CIRCUITS
+	EC351-ANALOG ,DIGITAL AND DATA COMMUNICATION
+	CS331-DIGITAL SIGNAL PROCESSING
+	CS1304-MICROPROCESSORS AND MICROCONTROLLERS
+	EC 1X11-ELECTRON DEVICES AND CIRCUITS ( ANNUAL PATTERN)
+	CS 1451-PROJECT WORK
+	EC 1291-ANALOG AND DIGITAL COMMUNICATION
+	IT 1252-DIGITAL SIGNAL PROCESSING
+	CS 2204-ANALOG AND DIGITAL COMMUNICATION
+	IT 1402 - MOBILE COMPUTING
+	
+	
+	CS2259 - MICROPROCESSORS LAB
+	EC2155- CIRCUITS AND DEVICES LABORATORY
+	CS1306-MICROPROCESSORS AND MICROCONTROLLERS LAB
+	CS 1206-DIGITAL LAB
+	EC252-ELECTRON DEVICES AND CIRCUITS LAB
+	
+------------------------------------------------------------------------------------------------------------
+Name : R.Vanaja     
+course taken:
+	System software
+	Data communication and computer networks
+	Computer architecture
+	Programming design and development
+	System software &amp; DBMS Lab
+	Programming &amp; Data structures(EC243)
+	Computer Programming Lab(EC246)
+	Operating system (CS333)
+	Operating system lab (CS335)
+	Computer Architecture - I (CS238)
+	C# and .Net Framework (CS062)
+	Data structures and algorithms (CS1211)
+	Data structures Lab (CS1152)
+	Data structures (CS1151)
+	Object Oriented Programming (CS1204)
+	Object Oriented Programming Lab (CS1206)
+	Principles of Compiler Design (CS1352)
+	Compiler Design Lab (CS1356)
+	Data structure (MC1604)
+	Problem Solving &amp; Programming (MC1602)
+	Data Structure Lab (MC1606)
+	Internet Programming Lab (MC1708)
+	Object Oriented Programming (141303)
+	Object Oriented Programming Lab (141353)
+	IT2042 INFORMATION SECURITY
+	CS6212 PROGRAMMING &amp; DATA STRUCTURES LAB I
+------------------------------------------------------------------------------------------------------------
+Name : V.Rajalakshmi     
+course taken:
+	
+	
+	
+	Programming Paradigms
+	Programming and Data Structures I
+	Web Technology
+	Data Structures
+	Object Oriented Programming
+	Operating System
+	Principles of Compiler Design
+	Fundamentals of Computing &amp; Programming
+	Computer Architecture
+	System Software
+	Internet Programming
+	
+	
+	
+	Java Lab
+	Programming and Data Structures Laboratory I
+	Web Technology Lab
+	Data Structures Lab
+	Object Oriented Programming Lab
+	Operating System Lab
+	Compiler Design Lab
+	Internet Programming Lab
+	Computer Practice Lab - I
+	Computer Practice Lab - II
+	System Software Lab
+------------------------------------------------------------------------------------------------------------
+Name : G.Janakasudha     
+course taken:
+	System Software
+	Information Security
+	Theory of Computation
+	Mobile Computing
+	Comprehension
+	Compiler Design
+	Operating Systems
+	Programming in C
+	Unix Internals
+	Internet Programming
+	Design and Analysis of Algorithms
+	Artificial Intelligence
+	Computer Networks
+	Object Oriented Programming
+	Graphics &amp; Multimedia
+	System Software Lab
+	Data Structures Lab
+	Computer Practice Lab- II
+	Operating Systems Lab
+	Compiler Lab
+	C Programming Lab
+	Internet Programming Lab
+	Network Lab
+	Computer Graphics Lab
+	Object Oriented Programming
+	System Software
+	System software Lab
+	Programming and Data Structures � I
+	Data Structures Lab
+------------------------------------------------------------------------------------------------------------
+Name : Kalavathi .S     
+course taken:
+	CS2032-DATA WAREHOUSING AND MINING
+	COMPUTER NETWORKS
+	COMPILER DESIGN
+	COMPUTER PROGRAMMING
+	DESIGN AND ANALYSIS OF ALGORITHMS
+	DATA STRUCTURES
+	VISUAL PROGRAMMING
+	CS9223-ADVANCED SYSTEM SOFTWARE
+	CS2302-COMPUTER NETWORKS
+	CS2406-OPEN SOURCE LAB
+	COMPUTER NETWORKS
+	DATA STRUCTURES
+	VISUAL PROGRAMMING
+	COMPUTER PROGRAMMING
+	CS9216-NETWORK LAB
+	141452-DATABASE MANAGEMENT SYSTEMS LAB
+	CS2258 - DBMS LAB
+	IT2353 WEB TECHNOLOGY (VI SEM A)
+	CS2358 INTERNET PROGRAMMING LAB
+------------------------------------------------------------------------------------------------------------
+Name : U.Abirami     
+course taken:
+	Theory of Computation
+	
+	Computer Programming
+	
+	Compiler Design
+	
+	Object Oriented Programming
+	
+	Data Structure &amp; Algorithms
+	
+	Design &amp; Analysis of Algorithms
+	
+	Graphics and multimedia
+	
+	Operating Systems
+	
+	Webtechnology
+	
+	Computer Networks
+	Networks lab
+	
+	Operating System lab
+	
+	Software Systems Development Lab
+	
+	Compiler Design Lab
+	
+	Data Structures Lab
+	
+	Graphics &amp; Multimedia Lab
+	
+	Internet Programming Lab
+	
+	Networking Lab
+	
+	Object oriented programming lab
+------------------------------------------------------------------------------------------------------------
+Name : P.Vinothiyalakshmi     
+course taken:
+	
+	
+	Theory
+	
+	CS1253 VisualProgramming
+	CS1211 DataStructures and Algorithms
+	CS1654 Object oriented system Design
+	IT1402 Mobile Computing
+	CS1604 Software Engineering mwthodologies
+	EE2204 DataStructures and Algorithms
+	CS2253 Computer Organization and Architecture
+	CS2254 Operating systems
+	CS2311 Object oriented programming
+	GE2112 Fundamentals of computing and programming
+	SE9213 Object oriented software engineering
+	CS2363 Computer Networks
+	LAB:
+	CS1255 VisualProgramming lab
+	CS1212 DataStructures and Algorithms lab
+	CS1207 SystemSoftware lab
+	CS1307 Database Management system lab
+	EE2209 DataStructures and alogithms lab
+	CS2258 Database Management system lab
+	CS1355 Graphics and multimedia lab
+	CS2312 Object oriented programming lab
+	CS2257 Operating syatems lab
+	GE2115 Computer practice lab-I
+	
+	
+	CS2363 COMPUTER NETWORKS
+	CS2259 MICROPROCESSORS LAB
+	CS2357 OOAD LAB
+	
+------------------------------------------------------------------------------------------------------------
+Name : S Rajalakshmi     
+course taken:
+	
+	
+	
+	THEORIES HANDLED
+	
+	CS6202-PROGRAMMING AND DATA STRUCTURES I
+	CS2352 - PRINCIPLES OF COMPILER DESIGN
+	CS2411 - OPERATING SYSTEMS
+	GE2112 - FUNDAMENTALS OF COMPUTING &amp; PROGRAMMING
+	141301 - DATA STRUCTURES
+	CS2255 – DATABASE MANAGEMENT SYSTEMS
+	CS2251 – DESIGN AND ANALYSIS OF ALGORITHMS
+	CS2201 – DATA STRUCTURES
+	CS1151 – DATA STRUCTURES
+	IT1402 – MOBILE COMPUTING
+	CS1252 – OPERATING SYSTEMS
+	GE1102 – FUNDAMENTALS OF COMPUTING
+	CS234 - DATABASE MANAGEMENT SYSTEMS
+	CS340 - COMPUTER ARCHITECTURE II
+	CS339 - COMPUTER NETWORKS
+	CS334 -  MICROPROCESSORS
+	CS433 - OBJECT ORIENTED SYSTEM ANALYSIS AND DESIGN
+	CS238 –COMPUTER ARCHITECTURE
+	CS431 - NETWORK PROTOCOLS, MANAGEMENT AND SECURITY
+	CS2301-SOFTWARE ENGINEERING
+	EE2204-DATA STRUCTURES &amp; ALGORITHMS
+	
+	ELECTIVES HANDLED
+	
+	IT1352 - CRYPTOGRAPHY AND NETWORK SECURITY
+	CS1015 - USER INTERFACE DESIGN
+	CS1001-RESOURCE MANAGEMENT TECHNIQUES
+	CS043-ATM NETWORKS
+	
+	LABS HANDLED
+	
+	
+	CS6212-PROGRAMMING AND DATA STRUCTURES LAB I
+	GE2115 - COMPUTER PRACTICE LAB I
+	EE2209 – DATA STRUCTURES AND ALGORITHMS LAB
+	141352 - DATA STRUCTURES LAB
+	CS2258 –DBMS LAB
+	CS2312 -  OBJECT ORIENTED PROGRAMMING LAB
+	CS2257 – OPERATING SYSTEMS LAB
+	CS2208 – DATA STRUCTURES LAB
+	EE2209 – DATA STRUCTURES AND ALGORITHMS LAB
+	CS1152 – DATA STRUCTURES LAB
+	GE1104 – COMPUTER PRACTICE LAB
+	CS1254 – OPERATING SYSTEMS LAB
+	CS1212 – DATA STRUCTURES AND ALGORITHMS LAB
+	CS341 - NETWORK PROGRAMMING LAB
+	CS336 - MICROPROCESSOR LAB
+	CS435 - SOFTWARE SYSTEMS DEVELOPMENT LAB
+	
+	
+	THEORIES HANDLED
+	
+	241102 - DATA STRUCTURES AND ALGORIHTMS
+	
+	LABS HANDLED
+	
+	241151 - DATA STRUCTURES LAB
+	
+------------------------------------------------------------------------------------------------------------
+Name : J Buvana     
+course taken:
+	Webtechnology
+	Computer Networks
+	Visual Programming
+	Data Structures &amp; Algorithms
+	Computer Architecture
+	Operating Systems
+	Object oriented programming (EEE)
+	Computer Organisation and architecture
+	Networking Lab
+	Visual Programming Lab
+	Case Tools Lab
+	Computer Practice Lab-I
+	Multimedia &amp; Graphics Lab
+	DBMS Lab
+	Data structures Lab
+	Operating Systems Lab
+	Internet Programming Lab
+	Computer Networks(EEE)
+	OOAD Lab
+------------------------------------------------------------------------------------------------------------
+Name : A.Sowmya Narayanan     
+course taken:
+	
+	Theory
+	
+	CS  1251 Computer Architecture
+	IT 1252 Digital Signal Processing
+	IT2042 Information Security
+	CS2411 Operating System
+	GE 2112 Fundamentals of Computing &amp;  Programming
+	Data Warehousing and Data Mining
+	Operating Systems
+	Microprocessors &amp; Microcontrollers
+	
+	Lab
+	
+	Devices &amp; Circuits Lab
+	CS 1355 Graphics &amp; Multimedia Lab
+	EC 2155 Circuits &amp; Devices  Lab
+	CS 1206 Digital Lab
+	GE 2115 Computer Practice Lab - I
+	Microprocessors &amp; Microcontrollers Lab
+	
+	
+------------------------------------------------------------------------------------------------------------
+Name : R Ramakrishnan     
+course taken:
+	CS2254 OPERATING SYSTEMS
+	CP7212 ADVANCED OPERATING SYSTEMS LAB
+	Information Security (PG)
+	Operating Systems
+	Software Engineering
+	Fundamentals of Computer Programming
+	Engineering Economics and Financial Accounting
+	Software Project Management - PG
+	Operating Systems Lab (PG)
+	Networking laboratory (PG)
+	System Software Lab
+	Computer Practices Laboratory I
+	Computer Practices Laboratory II
+------------------------------------------------------------------------------------------------------------
+Name : S Rajkumar     
+course taken:
+	
+	
+	
+	
+------------------------------------------------------------------------------------------------------------
+Name : P Subramanian     
+course taken:
+	
+	Digital &amp; Microprocessor Lab for II Year(CS &amp; IT)
+	
+	Digital &amp; Microprocessor Lab for II Year(CS &amp; IT)
+------------------------------------------------------------------------------------------------------------
+Name : SenthilKumar J     
+course taken:
+	
+	
+	
+	
+------------------------------------------------------------------------------------------------------------
+Name : T A Rajasekar     
+course taken:
+	
+	
+	
+	
+------------------------------------------------------------------------------------------------------------
+Name : Chandrasekaran     
+course taken:
+	
+	
+------------------------------------------------------------------------------------------------------------
+Name : H Subramanian     
+course taken:
+	
+	
+	
+	
+------------------------------------------------------------------------------------------------------------
+Name : R Gayathri     
+course taken:
+	Computer organisation &amp; Architecture
+	Operating Systems
+	DBMS
+	Data Mining &amp; Warehousing
+	Theory of Computation
+	Computer Networks
+	Internet Programming
+	Principles of Management
+	Software Quality Management
+	Advanced Operating Systems
+	Database Technology
+	System Software
+	Operating Systems Lab
+	DBMS labNetwork Lab
+	System Software Lab
+	Internet Programming Lab
+	Software Systems Development Lab
+	Computer Practice II Lab
+	System Software Lab
+	Computer Graphics Lab
+	CS2351 ARTIFICIAL INTELLIGENCE
+	CP7202 ADVANCED DATABASES
+	CP7211 ADVANCED DATABASES LAB
+------------------------------------------------------------------------------------------------------------
+Name : M.Suresh Kumar     
+course taken:
+	
+	
+	Web Technology
+	Fundamental of Computing
+	Computer networks
+	Operating Systems.
+	Cryptography and Network Security
+	Software Engineering
+	Object Oriented Programming
+	Data warehousing and Data Mining
+	Software Testing
+	
+	
+	
+	Web Technology Lab
+	Computer Practice II Lab
+	OS Lab
+	Software Engineering Lab
+	Oops Lab
+	Software Component Lab
+	DBMS Lab
+	Data structures Lab
+	Network Lab
+	
+	NE7202 NETWORK &amp; INFORMATION SECURITY
+	CS6211 DIGITAL LAB
+	
+------------------------------------------------------------------------------------------------------------
+Name : S.Senthamizh Selvi     
+course taken:
+	Internet Programming
+	IT2353 Web Technology
+	CS2201 Data Structures
+	CS2255 Database Management System
+	CS2203 Object Oriented Programming
+	CS2411 Operating System
+	GE2112 Fundamentals of Computing &amp; Programming
+	CS2305 Programming Paradigms
+	CS2353 Object Oriented Analysis and Design
+	CP7101 Design and Management of Computer Networks
+	CS2258 Database Management System lab
+	CS2358 Internet Programming Laboratory
+	GE2115 Computer Practice Laboratory - I
+	GE2155 Computer Practice Laboratory - II
+	EC2155 Electric Circuits and Electronic Devices Lab
+	CS2309 Java Lab
+	CS2357 Object Oriented Analysis and Design Lab
+	EE2209 Data Structures and Algorithms Lab
+	CP7112 Case Study Network Design(Team Work) Lab
+	CS 2254 Operating Systems
+	CS 2257 Operating Systems Lab
+------------------------------------------------------------------------------------------------------------
+Name : D.Sasikala     
+course taken:
+	CS2201 Data Structures
+	CS 2203 - Object Oriented Programming
+	185102 - Fundamentals of Computing and Programming
+	CS 2253 - nComputer Organization and Architecture
+	141301 - Data Structures
+	CS2208  Data Structures Lab
+	CS 2209 - Object Oriented Programming Lab
+	185151 - Computer Practice Laboratory - I
+	CS 2259 - Microprocessors Lab
+	141352 - Data Structures Lab
+	CS 2406 - Open Source Lab
+	CS2254 OPERATING SYSTEMS (IV SEM C)
+	CS2257 OPERATING SYSTEMS LAB
+------------------------------------------------------------------------------------------------------------
+Name : Prof. S.Muthukumar     
+course taken:
+	Multicore Architectures
+	
+	Advanced Computer Architecture
+	
+	Computer Organization and Architecture
+	
+	Microprocessor and Microcontrollers
+	
+	Digital principles and System Design
+	
+	Mobile Computing
+	
+	Embedded Systems
+	
+	CS2354 ADVANCED COMPUTER ARCHITECTURE
+------------------------------------------------------------------------------------------------------------
+Name : B.Jayalakshmi     
+course taken:
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+------------------------------------------------------------------------------------------------------------
+Name : K.Janani     
+course taken:
+	Artificial Intelligence
+	Fundamentals of Computing
+	CS2353 OBJECT ORIENTED ANALYSIS &amp; DESIGN
+	CS2357 OBJECT ORIENTED ANALYSIS &amp; DESIGN LAB
+------------------------------------------------------------------------------------------------------------
+Name : Dr. T. K Thivakaran     
+course taken:
+	Distributed Computing
+	Operating system design
+	Software Testing
+	Cryptography and network security
+	Object oriented analysis and design
+	Software engineering and methodology
+	Principles of management
+	Total Quality management
+	Engineering Economics and financial accounting
+	Enterprise Resource Planning
+	Data mining
+	Networking Lab
+	Computer Practice -I
+	CP7204 Advanced Operating Systems
+	IT2403 Software Project Management
+------------------------------------------------------------------------------------------------------------
+Name : E.Sivakumar     
+course taken:
+	Computer Programming and Problem Solving
+	Data Structures and Algorithms
+	Data Structures and Algorithms
+	CS2251 Design &amp; Analysis of Algorithms
+	CS2258 DBMS Lab
+------------------------------------------------------------------------------------------------------------
+Name : P.Subhasree     
+course taken:
+	Operating System
+	Data Structures and Algorithms
+	Operating System Lab
+	Data Structures and Algorithms Lab
+	Computer Practice Lab I
+	Computer Practice Lab II
+	CS2253 Computer Organization &amp; Architecture
+	CS2028 UNIX Internals
+------------------------------------------------------------------------------------------------------------
+Name : S.U.Muthunagai     
+course taken:
+	Computer Organisation  and Architecture
+	Object Oriented Programming
+	Object Oriented Programming Lab
+	CS2253 Computer organization &amp; Architecture
+	CS2257 Operating Systems Lab
+------------------------------------------------------------------------------------------------------------
+Name : R.Sarala     
+course taken:
+	Operating Systems
+	Principles of Compiler Design
+	Theory of Computation
+	Data Structures
+	Computer Architecture
+	Advanced Java Programming
+	Computer Graphics
+	IT for Management
+	Operating Systems Lab
+	Graphics Lab
+	Object oriented programming lab
+	System software lab
+	Data structures lab
+------------------------------------------------------------------------------------------------------------
+Name : K. Kumanan     
+course taken:
+	
+	
+	Database Management System
+	Computer Graphics
+	Fundamentals of Computing
+	
+	Database Management System Lab
+	Computer Graphics Lab
+	Fundamentals of Computing Lab
+	
+------------------------------------------------------------------------------------------------------------
+Name : S. Kohila     
+course taken:
+	
+	
+	
+	
+------------------------------------------------------------------------------------------------------------
+Name : SVCE | Department OF TSE | Faculty Profile -     
+course taken:
+	
+	
+	
+	
+------------------------------------------------------------------------------------------------------------
+Name : Prof B.Govindarajalu     
+course taken:
+	Advanced Computer Architecture
+	Computer Architecture
+	Computer networking
+	Embedded Systems
+	Microprocessors and PC Hardware and Interfacing
+	Compiler design
+	CS2253 COMPUTER ORGANIZATION &amp; ARCHITECTURE
+------------------------------------------------------------------------------------------------------------
+Name : E.Sakthivel     
+course taken:
+	Software Testing
+	Fundamentals of Computing and Programming
+	Database Management Systems
+	Programming in C
+	OOPS
+	Component Based Technology
+	CCNA Papers
+	Network Fundamentals
+	LAN Switching and Wireless
+	Introduction to ISP and Medium Networking
+	Accessing the WAN
+	Database Management Systems Lab
+	Programming in C - Lab
+	Software Development Lab
+	CCNA Lab using Packet tracer
+	Computer Practices Lab - I
+	Computer Practices Lab - II
+	CS2255 Database Management Systems
+	CS2029 Advanced Database Technology
+------------------------------------------------------------------------------------------------------------
+Name : M.Adimoolam     
+course taken:
+	Design and Analysis of Algorithms
+	Distributed Computing
+	Intelligent Computing
+	Computer Networks
+	Principles of Programming Languages
+	Automata Language and Computation
+	Digital System and Design
+	Digital lab
+	Computer Networks lab
+	Advanced software Lab
+	Comprehensive viva voice
+	Visual programming lab
+	Object oriented programming lab
+	CS6201 Digital Principles &amp; System design
+	CS6211 Digital Lab
+------------------------------------------------------------------------------------------------------------
+Name : E.Thirumagal     
+course taken:
+	Computer Graphics
+	Computer Graphics lab
+	System software lab
+	CS2255 Database Management Systems
+	CS2258 DBMS Lab
+------------------------------------------------------------------------------------------------------------
+Name : M Lavanya     
+course taken:
+	CS2252 MICROPROCESSORS &amp; MICROCONTROLLERS
+	CS6211 DIGITAL LAB
+------------------------------------------------------------------------------------------------------------
+Name : Dr. S. Raju     
+course taken:
+	Data Structures and Algorithms
+	
+	Object Oriented Programming with C++
+	
+	RDBMS Theory &amp; Lab
+	
+	Computer Communications and Network
+	
+	CP7201 THEORETICAL FOUNDATIONS OF COMPUTER SCIENCE
+	
+	CS6212 PROGRAMMING &amp; DATA STRUCTURES LAB I
+	
+------------------------------------------------------------------------------------------------------------
+Name : Bhuvaneswari R     
+course taken:
+	Computer Organization
+	Design and Analysis of Alogirthm
+	Web graphics
+	Middleware Technologies
+	Middleware Lab
+	Algorithm Lab
+	DBMS Lab
+	CS6202 Programming &amp; Data Structures I
+	CS6212 Programming &amp; Data Structures Lab I
+------------------------------------------------------------------------------------------------------------
+Name : Padmavadhy T     
+course taken:
+	Data Structures
+	
+	Programming in C
+	
+	OOPS
+	
+	Algorithms
+	
+	Computer Organization
+	
+	Computer Graphics
+	
+	Software Engineering
+	
+	Data Structures Lab
+	
+	OOPS Lab
+	
+	Algorithms Lab
+	
+	Software Development Lab
+	
+	Visual Programming Lab
+	
+	Middleware Lab
+	CS6202 Programming &amp; Data Structures I
+------------------------------------------------------------------------------------------------------------
+Name : Ram Kumar K R     
+course taken:
+	Middleware Technologies
+	Design and Analysis of Algorithms
+	Data Strucutures
+	Internet Programming
+	Unix and Network Programming
+	DBMS
+	Object Oriented Programming
+	Software Engineering
+	ECommerce
+	Programming Languages
+	XML and SebServices  Lab
+	Middleware Technologies Lab
+	Design and Analysis of Algorithms Lab
+	Data Strucutures Lab
+	Internet Programming Lab
+	Unix and Network Programming Lab
+	DBMS Lab
+	Object Oriented Programming Lab
+	Software Engineering
+------------------------------------------------------------------------------------------------------------
+Name : Rajalakshmi E     
+course taken:
+	Design and Analysis of Algorithm
+	Data Structures
+	Computer Graphics and Multimedia
+	Computer Organization
+	Programming in C
+	Theory of Computation
+	Distributed Computing
+	Operating Systems
+	Object Oriented Analysis &amp; Design
+	E-Commerce
+	Data Structures
+	Graphics &amp; Multimedia
+	programming in C
+	Computer Practice II
+	Software Development Lab
+------------------------------------------------------------------------------------------------------------
+Name : Revathi N     
+course taken:
+	Theoretical Foundations of Computer Science
+	Internet Java Programming
+	Information Theory and Coding
+	Grid Computing
+	Distributed systems
+	Advanced Java Programming
+	Component Based Technology
+	Visual Programming
+	Web Technology
+	Computer Networks
+	Object Oriented Analysis and Design.
+	Real Time Systems
+	Data Structures
+	CASE Tools Lab
+	Networking Lab
+	Software Components Lab.
+	System Software Lab
+	Visual Programming Lab
+	Web Technology Lab
+	Service Oriented Architecture Lab
+	Advanced Data Structures Lab
+	Computer and Communication Lab II
+	Next Generation Networks
+	Information Theory and Coding
+	Service Oriented Architecture Lab
+------------------------------------------------------------------------------------------------------------
+Name : S.K.Umamaheswari     
+course taken:
+	Fundamentals of Computing
+	Software Engineering and Quality Assurance
+	Computer Graphics Lab(CS2405)
+	Operating Systems lab(CS2257)
+	Computer practices lab-I &amp; II
+------------------------------------------------------------------------------------------------------------
+Name : S Poorani     
+course taken:
+	EC2352-Computer Networks
+	EC2356-Computer Networks Lab
+	EC2051-Wireless Sensor Networks
+	147301/EC2202-Data Structures and
+	Object Oriented Programming in C++
+	147353/EC2209-Data Structures and
+	Object oriented programming lab
+	251074-Internetworking Multimedia
+	CS2060-High Speed Networks
+------------------------------------------------------------------------------------------------------------
+Name : Rajeswari Natarajan     
+course taken:
+	Data structures and algorithms
+	Design and Analysis of algorithms
+	Operating Systems
+	Mathematical Foundations of Computer science
+	Computer Networks
+------------------------------------------------------------------------------------------------------------
+Name : R. Anitha     
+course taken:
+	Data Structures
+	Digital Systems
+	Object Oriented Programming
+	Digital Systems
+	Programming Language - C, C++
+	Principles of Communication
+	Data Mining and Warehousing
+	Unix Internals
+	Design and Analysis of Algorithms
+	Database Management Systems
+	Data Structures &amp; Algorithms Lab
+	Digital Systems Lab
+	Object Oriented Programming Lab
+	Internet Programming Lab
+	Operating System Lab
+	Programming Language - C, FOSS Lab
+	Computer Programming
+	Networking Lab
+	Web technology Lab
+	Microprocessor Lab
+------------------------------------------------------------------------------------------------------------
+Name : S.P. Manikandan     
+course taken:
+	Distributed Computing
+	Database Management Systems
+	Operating System
+	Data Communications
+	Introduction to Information Technology
+	Object Oriented Programming
+	Component Based Technology
+	Web Technology
+	Programming Language - C, C++
+	Computer Networks
+	Principles of Compiler Design
+	Fundamentals of Computing
+	Computer Programming
+	Data Structures and Algorithm
+	Mobile Computing (CSE)
+	Ad Hoc Networks (CSE)
+	Software Project Management (CSE)
+	Software Quality Assurance (S/W Engg)
+	Object Oriented Analysis System
+	Design (S/W Engg)
+	Object Oriented Programming Lab
+	Internet Programming Lab
+	Operating System Lab
+	Linux Lab
+	DBMS Lab
+	Computer Programming
+	Networking Lab
+	Web technology Lab
+------------------------------------------------------------------------------------------------------------
+Name : R.Iswarya     
+course taken:
+	
+	
+------------------------------------------------------------------------------------------------------------
